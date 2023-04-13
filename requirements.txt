@@ -1,0 +1,6 @@
+jupyterlite-core
+jupyterlite-xeus-sqlite
+jupyterlite-javascript-kernel
+jupyterlite-pyodide-kernel
+jupyterlab-tour
+jupyterlab-night
