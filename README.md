@@ -1,1 +1,1 @@
-# jupyerlite
+# jupyterlite
