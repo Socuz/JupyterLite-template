@@ -1,4 +1,4 @@
-name: Build and Deploy Jupyterlite
+name: Build and Deploy JupyterLite
 
 on: [push]
 
@@ -35,6 +35,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy Jupyterlite site 🚀
+      - name: Deploy JupyterLite site 🚀
         id: deployment
         uses: actions/deploy-pages@v2.0.0
