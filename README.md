@@ -1,5 +1,5 @@
 # JupyterLite Template
-## Pre-requisites
+## How-to
 This template helps you to deploy JupyterLite on GitHub Pages.  
 
 The process is automated using GitHub Actions. Simply click on **Use this template** to generate a repository.  
